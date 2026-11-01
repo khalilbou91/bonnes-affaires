@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-01T10:20:37+00:00",
+ "mis_a_jour": "2026-11-01T10:43:21+00:00",
  "categories": [
   "High-tech",
   "Maison & bricolage",
@@ -7,6 +7,162 @@
   "Voyages & loisirs"
  ],
  "offres": [
+  {
+   "id": "d173b0153ac2",
+   "titre": "Baskets Femme Puma Softride Enzo 4 - Noir, Taille 35.5",
+   "prix": 14.99,
+   "marchand": "Espace des marques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/xSeF9/3443300_1/re/150x150/qt/55/3443300_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/baskets-puma-softride-enzo-4-noires-femme-1499-eur-3443300",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:41:16+00:00",
+   "populaire": false
+  },
+  {
+   "id": "3f3bd019508c",
+   "titre": "Smartphone 6,67\" Nothing Phone (3) - RAM 12 Go, 256 Go, Snapdragon 8s Gen 4, AMOLED 120Hz, Version Globale",
+   "prix": 449.15,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/qz1dG/3443293_1/re/150x150/qt/55/3443293_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/smartphone-667-nothing-phone-3-12-go-256-go-snapdragon-8s-gen-4-amoled-120-hz-3443293",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:40:03+00:00",
+   "populaire": false
+  },
+  {
+   "id": "64f3c20f7d73",
+   "titre": "Dreame MOVA S70 Ultra Roller Robot Aspirateur Noir",
+   "prix": 579.0,
+   "marchand": "MOVA",
+   "image": "https://static-pepper.dealabs.com/threads/raw/GmtYO/3443311_1/re/150x150/qt/55/3443311_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/dreame-mova-s70-ultra-roller-robot-aspirateur-noir-3443311",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-01T10:39:40+00:00",
+   "populaire": false
+  },
+  {
+   "id": "fb9073af159b",
+   "titre": "Imprimante 3D Kobra 4 - avec Pack de 20 Bobines d'1Kg de Filament PLA, Couleurs Aléatoires (Via Paiement PayPal)",
+   "prix": 239.99,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/iF1gP/3443289_1/re/150x150/qt/55/3443289_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/imprimante-3d-kobra-4-pack-de-filament-pla-de-20-kg-via-paypal-3443289",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:37:53+00:00",
+   "populaire": false
+  },
+  {
+   "id": "deef83999f50",
+   "titre": "Nike P-6000 du 35.5 au 44.5",
+   "prix": 53.9,
+   "marchand": "Privé by Zalando",
+   "image": "https://static-pepper.dealabs.com/threads/raw/chbsG/3443308_1/re/150x150/qt/55/3443308_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/nike-p-6000-du-355-au-445-3443308",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:36:56+00:00",
+   "populaire": false
+  },
+  {
+   "id": "a0e891b7d3ef",
+   "titre": "Mini PC AOOSTAR N1 PRO - Intel N150 CPU, 12GO LPDDR5, 1TB SSD, Dual 2.5G LAN (Intel i226-V)",
+   "prix": 293.39,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/PzwF7/3443304_1/re/150x150/qt/55/3443304_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/mini-pc-aoostar-n1-pro-intel-n150-cpu-12go-lpddr5-1tb-ssd-dual-25g-lan-intel-i226-v-3443304",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:36:28+00:00",
+   "populaire": false
+  },
+  {
+   "id": "6cf91ff357c1",
+   "titre": "Établi HBM - 171 cm avec 6 tiroirs et porte, plan de travail en bois massif, noir",
+   "prix": 244.99,
+   "marchand": "HBM Machines",
+   "image": "https://static-pepper.dealabs.com/threads/raw/t9M5t/3443303_1/re/150x150/qt/55/3443303_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/hbm-etabli-171-cm-avec-6-tiroirs-et-porte-plan-de-travail-en-bois-massif-noir-3443303",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-01T10:35:39+00:00",
+   "populaire": false
+  },
+  {
+   "id": "567ac7701715",
+   "titre": "Nike Sportswear AIR MAX 90 - Baskets basses - gris du 35.5 au 44.5",
+   "prix": 67.9,
+   "marchand": "Privé by Zalando",
+   "image": "https://static-pepper.dealabs.com/threads/raw/yXdBw/3443298_1/re/150x150/qt/55/3443298_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/nike-sportswear-air-max-90-baskets-basses-gris-du-355-au-445-3443298",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:32:29+00:00",
+   "populaire": false
+  },
+  {
+   "id": "2a643c30e4be",
+   "titre": "Aspirateur robot laveur Dreame D20 Ultra - 13 000 Pa, Vidage auto, Séchage air chaud",
+   "prix": 259.0,
+   "marchand": "Cdiscount",
+   "image": "https://static-pepper.dealabs.com/threads/raw/g8XbW/3443280_1/re/150x150/qt/55/3443280_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/aspirateur-robot-laveur-dreame-d20-ultra-13-000-pa-vidage-auto-sechage-air-chaud-3443280",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-01T10:29:35+00:00",
+   "populaire": false
+  },
+  {
+   "id": "8ebb0225ec73",
+   "titre": "[Via Paypal] Smartphone POCO F8 Pro 5G - 12/256Go, AMOLED 120Hz, Snapdragon 8 Elite, 6210mAh, 50MP OIS",
+   "prix": 335.91,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/ImQU8/3443294_1/re/150x150/qt/55/3443294_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/via-paypal-smartphone-poco-f8-pro-5g-12256go-amoled-120hz-snapdragon-8-elite-6210mah-50mp-ois-3443294",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:28:23+00:00",
+   "populaire": false
+  },
+  {
+   "id": "df902137e2ae",
+   "titre": "Vol direct Aller/Retour Paris (CDG) Reykjavik Keflavik (KEF) Islande, Du 26 Janvier au 2 Février (Bagage 45x36x20cm)",
+   "prix": 97.5,
+   "marchand": "easyJet",
+   "image": "https://static-pepper.dealabs.com/threads/raw/s0O3V/3443292_1/re/150x150/qt/55/3443292_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/vol-direct-allerretour-paris-cdg-reykjavik-keflavik-kef-islande-des-98eur-du-26-janvier-au-2-fevrier-bagage-inclus-3443292",
+   "source": "Dealabs",
+   "categorie": "Voyages & loisirs",
+   "date": "2026-11-01T10:26:23+00:00",
+   "populaire": false
+  },
+  {
+   "id": "ef75d5ba856f",
+   "titre": "Cliveuse fibre optique Haute Précision LIAYTRSS - avec 16 points de coupe, SKL-6C, Pince trois en un (vendeur tiers, via coupon)",
+   "prix": 26.68,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/aY82G/3443290_1/re/150x150/qt/55/3443290_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/cliveuse-fibre-optique-haute-precision-avec-16-points-de-coupe-skl-6c-pince-trois-en-un-3443290",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-01T10:25:32+00:00",
+   "populaire": false
+  },
+  {
+   "id": "324877b4f9df",
+   "titre": "Montre Chronographe Timex Q TW2Y36100 - Bracelet Cuir",
+   "prix": 119.0,
+   "marchand": "Outlet PC",
+   "image": "https://static-pepper.dealabs.com/threads/raw/gpwbO/3443287_1/re/150x150/qt/55/3443287_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/montre-chronographe-timex-q-tw2y36100-bracelet-cuir-3443287",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:20:23+00:00",
+   "populaire": false
+  },
   {
    "id": "bd9423d7676b",
    "titre": "Coffret BD Goldorak Silver",
@@ -45,10 +201,10 @@
   },
   {
    "id": "1f3f99902b58",
-   "titre": "Smartphone Honor 600 Pro 12+512GB Version Européenne (Via paiement Paypal)",
-   "prix": 505.56,
+   "titre": "Smartphone 6,57\" Honor 600 Pro - RAM 12 Go, 512 Go, Version Européenne (Via Paiement Paypal)",
+   "prix": 525.56,
    "marchand": "AliExpress",
-   "image": "https://static-pepper.dealabs.com/threads/raw/BWyac/3443282_1/re/150x150/qt/55/3443282_1.jpg",
+   "image": "https://static-pepper.dealabs.com/threads/raw/jI01V/3443282_1/re/150x150/qt/55/3443282_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/smartphone-honor-600-pro-12512gb-version-europeenne-via-paiement-paypal-3443282",
    "source": "Dealabs",
    "categorie": "High-tech",
@@ -57,7 +213,7 @@
   },
   {
    "id": "131a41d4b1e7",
-   "titre": "Smartphone Realme GT7T 12GB 256GB",
+   "titre": "Smartphone 6,8\" Realme GT7T - RAM 12 Go, 256 Go, Version Globale",
    "prix": 236.81,
    "marchand": "AliExpress",
    "image": "https://static-pepper.dealabs.com/threads/raw/Da2DJ/3443281_1/re/150x150/qt/55/3443281_1.jpg",
@@ -81,7 +237,7 @@
   },
   {
    "id": "0166d37a4c80",
-   "titre": "FINAL FANTASY XV ÉDITION ROYALE PS4/PS5 (dématérialisé)",
+   "titre": "Final Fantasy XV Édition Royale sur PS4 / PS5 (Dématérialisé)",
    "prix": 10.49,
    "marchand": "PlayStation Store",
    "image": "https://static-pepper.dealabs.com/threads/raw/HyxTg/3443277_1/re/150x150/qt/55/3443277_1.jpg",
@@ -129,10 +285,10 @@
   },
   {
    "id": "b0dee683aff7",
-   "titre": "Chained Echoes pc (dématérialisé - sans DRM)",
+   "titre": "Chained Echoes sur PC (dématérialisé - sans DRM)",
    "prix": 7.49,
    "marchand": "GOG",
-   "image": "https://static-pepper.dealabs.com/threads/raw/ZF3vp/3443273_1/re/150x150/qt/55/3443273_1.jpg",
+   "image": "https://static-pepper.dealabs.com/threads/raw/rjHK1/3443273_1/re/150x150/qt/55/3443273_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/chained-echoes-pc-dematerialise-sans-drm-3443273",
    "source": "Dealabs",
    "categorie": "High-tech",
@@ -153,7 +309,7 @@
   },
   {
    "id": "83eb6e85c901",
-   "titre": "Calendrier de l avent mademoiselle bio",
+   "titre": "Calendrier de l'Avent Mademoiselle Bio - Edition Limitée Spéciale 20 Ans, 25 Cases",
    "prix": 76.0,
    "marchand": "Mademoiselle bio",
    "image": "https://static-pepper.dealabs.com/threads/raw/MaALl/3443268_1/re/150x150/qt/55/3443268_1.jpg",
@@ -177,10 +333,10 @@
   },
   {
    "id": "7c6ee4c5248e",
-   "titre": "ECRAN PC 27\" KTC M27T6S - Mini-Led (1152 zones), QHD, 200Hz (OC 210Hz), IPS rapide, HDR1000, ADAPTIV SYNC",
+   "titre": "Ecran PC 27\" KTC M27T6S - Mini-LED, 1152 Zones, QHD, 200Hz, OC 210Hz, IPS Rapide, HDR1000, Adaptiv Sync (Via Paiement Paypal)",
    "prix": 193.72,
    "marchand": "AliExpress",
-   "image": "https://static-pepper.dealabs.com/threads/raw/08CBQ/3443266_1/re/150x150/qt/55/3443266_1.jpg",
+   "image": "https://static-pepper.dealabs.com/threads/raw/0Z8q4/3443266_1/re/150x150/qt/55/3443266_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/moniteur-ktc-m27t6s-27-pouces-2k-mini-led-qhd-2560x1440-200hz-oc-210hz-ips-rapide-hdr1000-3443266",
    "source": "Dealabs",
    "categorie": "High-tech",
@@ -437,7 +593,7 @@
    "source": "Dealabs",
    "categorie": "Mode & beauté",
    "date": "2026-11-01T09:01:04+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "abe1117cc95c",
@@ -653,7 +809,7 @@
    "source": "Dealabs",
    "categorie": "Mode & beauté",
    "date": "2026-11-01T08:28:08+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "60332a7a93bb",
@@ -761,7 +917,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-01T08:09:06+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "a106f1cc9f6d",
@@ -881,7 +1037,7 @@
    "source": "Dealabs",
    "categorie": "Voyages & loisirs",
    "date": "2026-11-01T07:49:38+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "57e09ff888dd",
@@ -1493,7 +1649,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-10-31T23:37:59+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "7e61bb20fef1",
