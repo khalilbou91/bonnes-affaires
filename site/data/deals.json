@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-01T10:43:21+00:00",
+ "mis_a_jour": "2026-11-01T10:50:42+00:00",
  "categories": [
   "High-tech",
   "Maison & bricolage",
@@ -7,6 +7,42 @@
   "Voyages & loisirs"
  ],
  "offres": [
+  {
+   "id": "d2eba4506e41",
+   "titre": "Smartphone 6,7\" Samsung Galaxy A57 - RAM 8 Go, 128 Go",
+   "prix": 276.82,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/uJALz/3443306_1/re/150x150/qt/55/3443306_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/smartphone-67-samsung-galaxy-a57-5g-128-go-3443306",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:46:52+00:00",
+   "populaire": false
+  },
+  {
+   "id": "d211a5b54f35",
+   "titre": "NIKE AIR FORCE 1 '07 LV8 - Baskets basses - blanc",
+   "prix": 52.9,
+   "marchand": "Privé by Zalando",
+   "image": "https://static-pepper.dealabs.com/threads/raw/l6k1H/3443318_1/re/150x150/qt/55/3443318_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/nike-air-force-1-07-lv8-baskets-basses-blanc-3443318",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:46:15+00:00",
+   "populaire": false
+  },
+  {
+   "id": "b5f6de99bffe",
+   "titre": "Smartphone 6,77\" Honor 400 Smart 4G - RAM 6 Go, 128 Go",
+   "prix": 98.51,
+   "marchand": "AliExpress",
+   "image": "https://static-pepper.dealabs.com/threads/raw/edtK4/3443302_1/re/150x150/qt/55/3443302_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/smartphone-677-honor-400-smart-4g-ram-6-go-128-go-3443302",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T10:44:58+00:00",
+   "populaire": false
+  },
   {
    "id": "d173b0153ac2",
    "titre": "Baskets Femme Puma Softride Enzo 4 - Noir, Taille 35.5",
@@ -69,7 +105,7 @@
   },
   {
    "id": "a0e891b7d3ef",
-   "titre": "Mini PC AOOSTAR N1 PRO - Intel N150 CPU, 12GO LPDDR5, 1TB SSD, Dual 2.5G LAN (Intel i226-V)",
+   "titre": "Mini PC Aoostar N1 PRO - Intel N150, RAM 12 Go LPDDR5 4800MHz, SSD 1 To, Dual 2.5G LAN, Intel i226-V",
    "prix": 293.39,
    "marchand": "AliExpress",
    "image": "https://static-pepper.dealabs.com/threads/raw/PzwF7/3443304_1/re/150x150/qt/55/3443304_1.jpg",
@@ -93,10 +129,10 @@
   },
   {
    "id": "567ac7701715",
-   "titre": "Nike Sportswear AIR MAX 90 - Baskets basses - gris du 35.5 au 44.5",
+   "titre": "Chaussures Nike Sportswear Air Max 90 - Baskets Basses, Gris, Tailles du 35,5 au 44,5",
    "prix": 67.9,
    "marchand": "Privé by Zalando",
-   "image": "https://static-pepper.dealabs.com/threads/raw/yXdBw/3443298_1/re/150x150/qt/55/3443298_1.jpg",
+   "image": "https://static-pepper.dealabs.com/threads/raw/v7jnC/3443298_1/re/150x150/qt/55/3443298_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/nike-sportswear-air-max-90-baskets-basses-gris-du-355-au-445-3443298",
    "source": "Dealabs",
    "categorie": "Mode & beauté",
