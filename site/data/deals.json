@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-01T10:53:11+00:00",
+ "mis_a_jour": "2026-11-01T10:57:44+00:00",
  "categories": [
   "High-tech",
   "Maison & bricolage",
@@ -7,6 +7,30 @@
   "Voyages & loisirs"
  ],
  "offres": [
+  {
+   "id": "c0824297bc5d",
+   "titre": "Entrée gratuite au musée des Beaux-Arts de Draguignan + visites exceptionnelles – 14 et 15 novembre (83)",
+   "prix": null,
+   "marchand": null,
+   "image": "https://static-pepper.dealabs.com/threads/raw/ZKuFE/3443321_1/re/150x150/qt/55/3443321_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/entree-gratuite-au-musee-des-beaux-arts-de-draguignan-visites-exceptionnelles-14-et-15-novembre-83-3443321",
+   "source": "Dealabs",
+   "categorie": "Voyages & loisirs",
+   "date": "2026-11-01T10:53:59+00:00",
+   "populaire": false
+  },
+  {
+   "id": "96be5e9282e0",
+   "titre": "Robe Rouge Femme Guess Mock - Taille XS",
+   "prix": 19.99,
+   "marchand": "Espace des marques",
+   "image": "https://static-pepper.dealabs.com/threads/raw/pSBvh/3443319_1/re/150x150/qt/55/3443319_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/robe-rouge-femme-guess-mock-3443319",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-01T10:53:42+00:00",
+   "populaire": false
+  },
   {
    "id": "d2eba4506e41",
    "titre": "Smartphone 6,7\" Samsung Galaxy A57 - RAM 8 Go, 128 Go",
@@ -2849,7 +2873,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-10-31T11:53:38+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "718ca631dd15",
