@@ -1,3 +1,13 @@
+
+/* Pages de contenu (À propos, mentions légales…) */
+.page { max-width: 760px; padding-top: 32px; }
+.page h1 { font-size: 28px; letter-spacing: -0.02em; margin: 0 0 8px; }
+.page h2 { font-size: 18px; margin: 28px 0 8px; }
+.page p { margin: 0 0 12px; }
+.page a, .foot a { color: var(--accent); }
+.muted { color: var(--muted); font-size: 14px; }
+.foot-links a { text-decoration: none; }
+.foot-links a:hover { text-decoration: underline; }
 :root {
   --bg: #f7f7f5;
   --surface: #ffffff;
