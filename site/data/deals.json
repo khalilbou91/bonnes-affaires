@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-01T10:57:44+00:00",
+ "mis_a_jour": "2026-11-01T11:01:47+00:00",
  "categories": [
   "High-tech",
   "Maison & bricolage",
@@ -8,8 +8,32 @@
  ],
  "offres": [
   {
+   "id": "b15b9d2e6f64",
+   "titre": "Smartphone Apple IPhone Air - 256 go ( via 247 € carte Leclerc. )",
+   "prix": 899.0,
+   "marchand": "E.Leclerc",
+   "image": "https://static-pepper.dealabs.com/threads/raw/a3sNV/3443325_1/re/150x150/qt/55/3443325_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/smartphone-apple-iphone-air-256-go-via-247-eur-carte-leclerc-3443325",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-01T11:00:07+00:00",
+   "populaire": false
+  },
+  {
+   "id": "535e93b41cb9",
+   "titre": "Nettoyeur de Terrasses Kärcher PCL 6 - Max. 10 Bar, Débit d'eau Max. 180 l/h",
+   "prix": 148.41,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Q25nO/3443323_1/re/150x150/qt/55/3443323_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/nettoyeur-de-terrasses-karcher-pcl-6-3443323",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-01T10:58:46+00:00",
+   "populaire": false
+  },
+  {
    "id": "c0824297bc5d",
-   "titre": "Entrée gratuite au musée des Beaux-Arts de Draguignan + visites exceptionnelles – 14 et 15 novembre (83)",
+   "titre": "Entrée Gratuite au Musée des Beaux-Arts de Draguignan + Visites Exceptionnelles - 14 et 15 novembre - Draguignan (83)",
    "prix": null,
    "marchand": null,
    "image": "https://static-pepper.dealabs.com/threads/raw/ZKuFE/3443321_1/re/150x150/qt/55/3443321_1.jpg",
@@ -1805,7 +1829,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-10-31T23:28:33+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "f87f8b12dc66",
