@@ -1,0 +1,21 @@
+{
+  "_aide": "Liste des flux RSS lus par le robot. Pour ajouter une source : copiez un bloc, changez 'url', 'source' et 'categorie'. Les catégories doivent correspondre à celles du site.",
+  "categories": ["High-tech", "Maison & bricolage", "Mode & beauté", "Voyages & loisirs"],
+  "flux_populaires": [
+    { "url": "https://www.dealabs.com/rss/hot", "source": "Dealabs" }
+  ],
+  "flux": [
+    { "url": "https://www.dealabs.com/rss/groupe/informatique",                "source": "Dealabs", "categorie": "High-tech" },
+    { "url": "https://www.dealabs.com/rss/groupe/telephonie",                  "source": "Dealabs", "categorie": "High-tech" },
+    { "url": "https://www.dealabs.com/rss/groupe/image-son-video",             "source": "Dealabs", "categorie": "High-tech" },
+    { "url": "https://www.dealabs.com/rss/groupe/consoles-jeux-video",         "source": "Dealabs", "categorie": "High-tech" },
+    { "url": "https://www.dealabs.com/rss/groupe/accessoires-gadgets",         "source": "Dealabs", "categorie": "High-tech" },
+    { "url": "https://www.dealabs.com/rss/groupe/maison-jardin",               "source": "Dealabs", "categorie": "Maison & bricolage" },
+    { "url": "https://www.dealabs.com/rss/groupe/mode-accessoires",            "source": "Dealabs", "categorie": "Mode & beauté" },
+    { "url": "https://www.dealabs.com/rss/groupe/hygiene-sante-cosmetiques",   "source": "Dealabs", "categorie": "Mode & beauté" },
+    { "url": "https://www.dealabs.com/rss/groupe/voyages-sorties-restaurants", "source": "Dealabs", "categorie": "Voyages & loisirs" },
+    { "url": "https://www.dealabs.com/rss/groupe/culture-divertissement",      "source": "Dealabs", "categorie": "Voyages & loisirs" }
+  ],
+  "max_offres": 400,
+  "max_age_jours": 7
+}
