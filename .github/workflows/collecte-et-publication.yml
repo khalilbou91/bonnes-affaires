@@ -9,15 +9,13 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: collecte
   cancel-in-progress: false
 
 jobs:
-  collecte:
+  collecte-et-envoi:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -38,18 +36,10 @@ jobs:
           git pull --rebase --quiet || true
           git push
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-
-  publication:
-    needs: collecte
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    steps:
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Envoyer le site sur l'hébergement OVHcloud (SFTP)
+        env:
+          LFTP_PASSWORD: ${{ secrets.OVH_SFTP_PASSWORD }}
+        run: |
+          if [ -z "$LFTP_PASSWORD" ]; then echo "::error::Le secret OVH_SFTP_PASSWORD est manquant"; exit 1; fi
+          sudo apt-get update -qq > /dev/null && sudo apt-get install -y -qq lftp > /dev/null
+          lftp -e "set sftp:auto-confirm yes; set net:max-retries 2; set net:timeout 30; mirror --reverse --delete --verbose site www; bye" --env-password -u mesbonr sftp://ftp.cluster129.hosting.ovh.net:22
