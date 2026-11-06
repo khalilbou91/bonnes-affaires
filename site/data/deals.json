@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-05T23:41:33+00:00",
+ "mis_a_jour": "2026-11-06T06:56:21+00:00",
  "categories": [
   "High-tech",
   "Maison & bricolage",
@@ -8,8 +8,344 @@
  ],
  "offres": [
   {
+   "id": "6b85d0e44ddc",
+   "titre": "Double Vinyle Pearl Jam : Vs. 30th Anniversary Édition",
+   "prix": 29.99,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/xHhQc/3447457_1/re/150x150/qt/55/3447457_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/double-vinyle-pearl-jam-vs-30th-anniversary-edition-3447457",
+   "source": "Dealabs",
+   "categorie": "Voyages & loisirs",
+   "date": "2026-11-06T06:53:50+00:00",
+   "populaire": false
+  },
+  {
+   "id": "6b97ef2915c0",
+   "titre": "CACHE CACHE Vente Flash -60% dès 2 articles achetés sur une sélection",
+   "prix": null,
+   "marchand": "Cache Cache",
+   "image": "https://static-pepper.dealabs.com/threads/raw/yQSdR/3447460_1/re/150x150/qt/55/3447460_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/cache-cache-vente-flash-60-des-2-articles-achetes-sur-une-selection-3447460",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-06T06:48:26+00:00",
+   "populaire": false
+  },
+  {
+   "id": "7fe4b7454085",
+   "titre": "Diable Pliant en Aluminium Vevor 2 en 1 - Charge 181 kg, Chariot à Plate-forme",
+   "prix": 47.57,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/LviLR/3447459_1/re/150x150/qt/55/3447459_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/diable-pliant-en-aluminium-vevor-2-en-1-charge-181-kg-chariot-a-plate-forme-3447459",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T06:47:38+00:00",
+   "populaire": false
+  },
+  {
+   "id": "9db1b5f890f0",
+   "titre": "Fallout 4 Édition Anniversaire sur Switch 2 (code de téléchargement)",
+   "prix": 37.23,
+   "marchand": "JoyBuy",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Z0hRq/3447437_1/re/150x150/qt/55/3447437_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/bethesda-fallout-4-edition-anniversaire-nintendo-switch-3447437",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T06:39:37+00:00",
+   "populaire": false
+  },
+  {
+   "id": "28283b469d21",
+   "titre": "Balai Aspirateur Laveur sans fil Roborock F25RT - Version Complete",
+   "prix": 149.0,
+   "marchand": "Cdiscount",
+   "image": "https://static-pepper.dealabs.com/threads/raw/newl6/3447456_1/re/150x150/qt/55/3447456_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/aspirateur-balai-laveur-sans-fil-roborock-f25rt-version-complete-3447456",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T06:38:12+00:00",
+   "populaire": false
+  },
+  {
+   "id": "363097259a02",
+   "titre": "The Rogue Prince of Persia sur Nintendo Switch 2",
+   "prix": 16.51,
+   "marchand": "JoyBuy",
+   "image": "https://static-pepper.dealabs.com/threads/raw/rNV8M/3447432_1/re/150x150/qt/55/3447432_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/jeux-switch-2-the-rogue-prince-of-persia-3447432",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T06:35:56+00:00",
+   "populaire": false
+  },
+  {
+   "id": "fbef2405a5a1",
+   "titre": "Veste denim Lola Shacket Levi's - Taille M",
+   "prix": 28.0,
+   "marchand": "La Redoute",
+   "image": "https://static-pepper.dealabs.com/threads/raw/o53IC/3447452_1/re/150x150/qt/55/3447452_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/veste-denim-lola-shacket-levis-taille-m-3447452",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-06T06:31:31+00:00",
+   "populaire": false
+  },
+  {
+   "id": "627a5ddf4ef0",
+   "titre": "The Last Remnant Remastered sur Nintendo Switch (Dématérialisé)",
+   "prix": 7.99,
+   "marchand": "Nintendo",
+   "image": "https://static-pepper.dealabs.com/threads/raw/qNw2k/3447451_1/re/150x150/qt/55/3447451_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/the-last-remnant-remastered-sur-nintendo-switch-dematerialise-3447451",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T06:29:30+00:00",
+   "populaire": false
+  },
+  {
+   "id": "25128a803503",
+   "titre": "Plancha à gaz Le Marquier Vintage Pure 375 Acier - 8 Accessoires",
+   "prix": 599.0,
+   "marchand": "Barbecue &amp; Co",
+   "image": "https://static-pepper.dealabs.com/threads/raw/TQRHn/3447442_1/re/150x150/qt/55/3447442_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/pack-plancha-gaz-le-marquier-pure-375-acier-8-access-3447442",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T06:24:31+00:00",
+   "populaire": false
+  },
+  {
+   "id": "6f00568549bf",
+   "titre": "Trousse Eastpak Benchmark Single - Sunday Grey",
+   "prix": 5.75,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/ppfMn/3435335_1/re/150x150/qt/55/3435335_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/eastpak-benchmark-single-trousse-sunday-grey-gris-bleu-ou-vert-3435335",
+   "source": "Dealabs",
+   "categorie": "Mode & beauté",
+   "date": "2026-11-06T06:22:56+00:00",
+   "populaire": true
+  },
+  {
+   "id": "1b49f1ad6354",
+   "titre": "Boite de 50 Chevilles Bi-Matière & Multi-Matériaux Fischer Duopower - Tête Cylindrique, 6x50mm",
+   "prix": 16.39,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/5Kz4f/3447439_1/re/150x150/qt/55/3447439_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/boite-de-50-chevilles-bi-matiere-et-multi-materiaux-fischer-duopower-tete-cylindrique-6x50-mm-3447439",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T06:21:55+00:00",
+   "populaire": false
+  },
+  {
+   "id": "f1ab04588762",
+   "titre": "Robot Aspirateur Laveur Roborock Saros 20 Sonic - Station RockDock, avec Coffret d'Accessoires",
+   "prix": 899.0,
+   "marchand": "Roborock",
+   "image": "https://static-pepper.dealabs.com/threads/raw/E9lxZ/3447436_1/re/150x150/qt/55/3447436_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/roborock-saros-20-sonic-avec-station-rockdock-coffret-daccessoires-offert-3447436",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T06:18:14+00:00",
+   "populaire": false
+  },
+  {
+   "id": "4e756354997b",
+   "titre": "Payday 3 jouable gratuitement sur PC jusqu'au 9/11/2026 (Dématérialisé)",
+   "prix": null,
+   "marchand": "Steam",
+   "image": "https://static-pepper.dealabs.com/threads/raw/WwPV4/3447390_1/re/150x150/qt/55/3447390_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/payday-3-sur-pc-jouable-gratuitement-jusquau-9112026-dematerialise-3447390",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T06:08:57+00:00",
+   "populaire": false
+  },
+  {
+   "id": "998bf260e829",
+   "titre": "TV 65\" TCL 65C89K - QD-Mini LED, 4K, 144Hz",
+   "prix": 899.0,
+   "marchand": "Cdiscount",
+   "image": "https://static-pepper.dealabs.com/threads/raw/pAVon/3447395_1/re/150x150/qt/55/3447395_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/tv-tcl-65-pouces-qd-mini-led-4k-144-hz-a-899-eur-chez-cdiscount-3447395",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T06:04:35+00:00",
+   "populaire": false
+  },
+  {
+   "id": "fb14efe58804",
+   "titre": "Boîte de 200 Vis Fisher PowerFast FPF II CZF - 4,0 x 16 mm, Tête fraisée, empreinte PZ, zingué",
+   "prix": 3.38,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/grKRY/3447428_1/re/150x150/qt/55/3447428_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/boite-de-200-vis-fisher-powerfast-fpf-ii-czf-tete-fraisee-40-x-16-mm-3447428",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T05:57:58+00:00",
+   "populaire": false
+  },
+  {
+   "id": "a5d5b3aa2f17",
+   "titre": "Robot Aspirateur Laveur Ecovacs Deebot X12 OmniCyclone Care Complete - 22000 Pa (Vendeur Tiers)",
+   "prix": 699.0,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/WFqhC/3447424_1/re/150x150/qt/55/3447424_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/aspirateur-robot-laveur-ecovacs-deebot-x12-omnicyclone-care-complete-22-000-pa-3447424",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T05:56:33+00:00",
+   "populaire": false
+  },
+  {
+   "id": "512c857e373d",
+   "titre": "Rouleau de Ruban de Fixation Extrême Scotch-Fix - pour Extérieur, 19mm x 5m",
+   "prix": 8.1,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/mXmKj/3447420_1/re/150x150/qt/55/3447420_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/rouleau-de-ruban-de-fixation-extreme-pour-exterieur-scotch-fix-19-mm-x-5-m-3447420",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T05:51:25+00:00",
+   "populaire": false
+  },
+  {
+   "id": "004259f831f1",
+   "titre": "Robot Aspirateur Laveur Ecovacs Deebot X11S OmniCyclone Care Kit - 30000 Pa, avec Rouleau Ozmo Roller 3.0 (Vendeurs Tiers)",
+   "prix": 749.0,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/qXVn4/3447412_1/re/150x150/qt/55/3447412_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/aspirateur-robot-laveur-ecovacs-deebot-x11s-omnicyclone-care-kit-3447412",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T05:17:29+00:00",
+   "populaire": false
+  },
+  {
+   "id": "e49ae176ba94",
+   "titre": "Shinobi Art of Vengeance sur PC (Dématérialisé - Steam)",
+   "prix": 3.78,
+   "marchand": "Eneba",
+   "image": "https://static-pepper.dealabs.com/threads/raw/qctqw/3447407_1/re/150x150/qt/55/3447407_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/shinobi-art-of-vengeance-3447407",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T04:50:18+00:00",
+   "populaire": false
+  },
+  {
+   "id": "c98cfb56dc45",
+   "titre": "Robot Tondeuse Husqvarna Automower Aspire R4 - avec Kit d’Installation",
+   "prix": 499.0,
+   "marchand": "Husqvarna",
+   "image": "https://static-pepper.dealabs.com/threads/raw/EaIiX/3447399_1/re/150x150/qt/55/3447399_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/robot-tondeuse-husqvarna-automower-aspire-r4-avec-kit-du0027installation-inclus-3447399",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T04:15:28+00:00",
+   "populaire": false
+  },
+  {
+   "id": "b0d8382c64a7",
+   "titre": "90% sur une Sélection d'Articles - Limoges (87)",
+   "prix": null,
+   "marchand": "Bricorama",
+   "image": "https://static-pepper.dealabs.com/threads/raw/rxJNC/3447398_1/re/150x150/qt/55/3447398_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/90-sur-une-selection-bricorama-limoges-liquidation-avant-fermeture-3447398",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T04:13:29+00:00",
+   "populaire": false
+  },
+  {
+   "id": "ddd446e672ca",
+   "titre": "Smartphone Moto G37 5G+ - RAM 4 Go, 128 Go, Noir",
+   "prix": 179.0,
+   "marchand": "Orange",
+   "image": "https://static-pepper.dealabs.com/threads/raw/9INXz/3447388_1/re/150x150/qt/55/3447388_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/moto-g37-5g-noir-128-go-179eur-au-lieu-de-229eur-chez-orange-3447388",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T02:35:31+00:00",
+   "populaire": false
+  },
+  {
+   "id": "12c7d522cfe5",
+   "titre": "Smartphone 6.3\" Xiaomi 17 - OLED 120Hz, 12 Go + 512 Go, Snapdragon 8 Elite Gen 5, Caméra Leica, 6330 mAh",
+   "prix": 629.96,
+   "marchand": "E.Leclerc",
+   "image": "https://static-pepper.dealabs.com/threads/raw/BPvWL/3447387_1/re/150x150/qt/55/3447387_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/possesseurs-de-la-carte-fidelite-xiaomi-17-512go-noir-3447387",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-06T02:18:50+00:00",
+   "populaire": true
+  },
+  {
+   "id": "7b164908a51f",
+   "titre": "Barbecue Charbon de Bois Napoleon 57cm PRO22K-LEG-3 - Noir (Sélection de magasins)",
+   "prix": 229.9,
+   "marchand": "Leroy Merlin",
+   "image": "https://static-pepper.dealabs.com/threads/raw/XWIbK/3447385_1/re/150x150/qt/55/3447385_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/barbecue-charbon-de-bois-napoleon-pro22k-leg-3-noir-3447385",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T01:10:20+00:00",
+   "populaire": false
+  },
+  {
+   "id": "46d66d343681",
+   "titre": "[Lidl+] Coffret de douilles Parkside - 216 pièces",
+   "prix": 49.0,
+   "marchand": "Lidl",
+   "image": "https://static-pepper.dealabs.com/threads/raw/gbuq6/3447381_1/re/150x150/qt/55/3447381_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/coffret-de-douilles-216-pieces-3447381",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T00:39:18+00:00",
+   "populaire": false
+  },
+  {
+   "id": "782237d19b58",
+   "titre": "[Habitants] Distribution gratuite de branches de Sapin - Ribeauvillé (68)",
+   "prix": null,
+   "marchand": null,
+   "image": "https://static-pepper.dealabs.com/threads/raw/7ZPFI/3447380_1/re/150x150/qt/55/3447380_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/habitants-distribution-gratuite-de-branches-de-sapin-ribeauville-68-3447380",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-06T00:20:57+00:00",
+   "populaire": false
+  },
+  {
+   "id": "64b9c016af88",
+   "titre": "Aspirateur balai Dyson V12 Detect Slim + Kit de nettoyage minutieux + Station d'accueil indépendante",
+   "prix": 398.17,
+   "marchand": "Dyson",
+   "image": "https://static-pepper.dealabs.com/threads/raw/o0kmU/3447375_1/re/150x150/qt/55/3447375_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/dyson-v12-detect-slim-kit-de-nettoyage-minutieux-station-daccueil-independante-offerte-3447375",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-05T23:51:23+00:00",
+   "populaire": false
+  },
+  {
+   "id": "eceafa74adba",
+   "titre": "Scie japonaise pliable Kataba - 240 mm en acier carbone (Vendeur tiers)",
+   "prix": 13.71,
+   "marchand": "Amazon",
+   "image": "https://static-pepper.dealabs.com/threads/raw/Wf56J/3447374_1/re/150x150/qt/55/3447374_1.jpg",
+   "lien": "https://www.dealabs.com/bons-plans/hardtwerk-zen-scie-japonaise-pliable-kataba-240-mm-en-acier-carbone-vendeur-tiers-3447374",
+   "source": "Dealabs",
+   "categorie": "Maison & bricolage",
+   "date": "2026-11-05T23:49:02+00:00",
+   "populaire": false
+  },
+  {
    "id": "b4583ea37c37",
-   "titre": "Scie japonaise Kongo Hardtwerk - Deux côtés de coupe et lame en acier SK5 (Vendeur tiers)",
+   "titre": "Scie japonaise pliable Kongo en acier SK5 (Vendeur tiers)",
    "prix": 11.01,
    "marchand": "Amazon",
    "image": "https://static-pepper.dealabs.com/threads/raw/xcSDZ/3447372_1/re/150x150/qt/55/3447372_1.jpg",
@@ -29,6 +365,18 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T23:07:17+00:00",
+   "populaire": true
+  },
+  {
+   "id": "1b8ccd1cc349",
+   "titre": "Contenu numérique : 12 Codes Cosmétique (costume de Welsh et costume de Shedar) + consommable sur Dofus (Dématérialisé)",
+   "prix": null,
+   "marchand": "Ankama",
+   "image": "https://static-pepper.dealabs.com/merchants/raw/avatar/492_1/re/352x352/qt/60/492_1.jpg",
+   "lien": "https://www.dealabs.com/codes-promo/codes-dofus-1-a-12-3447365",
+   "source": "Dealabs",
+   "categorie": "High-tech",
+   "date": "2026-11-05T22:46:16+00:00",
    "populaire": false
   },
   {
@@ -93,7 +441,7 @@
   },
   {
    "id": "ccda97f92b17",
-   "titre": "Calendrier de l'avent 1026 outillage wera",
+   "titre": "Calendrier de l'Avent 2026 Outillage Wera",
    "prix": 45.99,
    "marchand": "GetGoods",
    "image": "https://static-pepper.dealabs.com/threads/raw/1CQsP/3447348_1/re/150x150/qt/55/3447348_1.jpg",
@@ -425,7 +773,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T19:31:57+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "6819d39966a7",
@@ -653,7 +1001,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T18:03:31+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "2d8f13485716",
@@ -665,7 +1013,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T18:02:02+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "ea2264a3040a",
@@ -1037,7 +1385,7 @@
    "source": "Dealabs",
    "categorie": "Mode & beauté",
    "date": "2026-11-05T15:49:04+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "e2ac865af936",
@@ -1409,7 +1757,7 @@
    "source": "Dealabs",
    "categorie": "Mode & beauté",
    "date": "2026-11-05T14:18:24+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "14cb636e44f6",
@@ -1637,7 +1985,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T12:59:33+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "bef069c0b593",
@@ -1733,7 +2081,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-05T12:20:36+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "e6ca393d5afa",
@@ -1995,7 +2343,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/3MPLm/3446970_1/re/150x150/qt/55/3446970_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/scie-sauteuse-sans-fil-20-v-psspa-20-li-f4-sans-batterie-ni-chargeur-3446970",
    "source": "Dealabs",
-   "categorie": "Maison & bricolage",
+   "categorie": "High-tech",
    "date": "2026-11-05T11:41:33+00:00",
    "populaire": false
   },
@@ -2055,7 +2403,7 @@
    "image": "https://static-pepper.dealabs.com/threads/raw/mGkLf/3446959_1/re/150x150/qt/55/3446959_1.jpg",
    "lien": "https://www.dealabs.com/bons-plans/marteau-perforateur-sans-fil-20v-parkside-performance-pkhap-2034-li-b1-vendu-sans-batterie-ni-chargeur-3446959",
    "source": "Dealabs",
-   "categorie": "Maison & bricolage",
+   "categorie": "High-tech",
    "date": "2026-11-05T11:32:25+00:00",
    "populaire": false
   },
@@ -2561,7 +2909,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T09:45:52+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "6e02981e6444",
@@ -3245,7 +3593,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-05T08:06:22+00:00",
-   "populaire": true
+   "populaire": false
   },
   {
    "id": "7fb9c053d7d7",
@@ -3437,7 +3785,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-05T06:56:09+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "ed320e3454d7",
@@ -3485,7 +3833,7 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-05T06:39:31+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "85601c4d3b49",
@@ -3713,7 +4061,7 @@
    "source": "Dealabs",
    "categorie": "High-tech",
    "date": "2026-11-05T01:02:44+00:00",
-   "populaire": false
+   "populaire": true
   },
   {
    "id": "9dc742793d52",
@@ -4457,354 +4805,6 @@
    "source": "Dealabs",
    "categorie": "Maison & bricolage",
    "date": "2026-11-04T20:08:14+00:00",
-   "populaire": false
-  },
-  {
-   "id": "f0f2e88bd368",
-   "titre": "Écran PC 32\" TCL 32X3A - OLED+ 4K, Dual Mode 4K 240Hz / FHD 480Hz, 0.03ms, Audio B&O",
-   "prix": 890.0,
-   "marchand": "Son-vidéo.com",
-   "image": "https://static-pepper.dealabs.com/threads/raw/IQOAm/3446468_1/re/150x150/qt/55/3446468_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-32-tcl-32x3a-oled-4k-dual-mode-4k-240hz-fhd-480hz-003ms-audio-bo-3446468",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T20:08:08+00:00",
-   "populaire": true
-  },
-  {
-   "id": "7b24ddc620af",
-   "titre": "Sèche-linge pompe à chaleur 9 kg Hisense DH3S902BWCC - Connecté, Anti-froissage, 63 dB",
-   "prix": 499.0,
-   "marchand": "Boulanger",
-   "image": "https://static-pepper.dealabs.com/threads/raw/HBljt/3446467_1/re/150x150/qt/55/3446467_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-9-kg-hisense-dh3s902bwcc-connecte-anti-froissage-63-db-3446467",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T20:06:54+00:00",
-   "populaire": false
-  },
-  {
-   "id": "1627bb35edbd",
-   "titre": "Réfrigérateur Combiné Encastrable Hisense RB3B250SAWE - 252L, No Frost, 35 dB, Classe E (Via ODR de 50€)",
-   "prix": 649.0,
-   "marchand": "Boulanger",
-   "image": "https://static-pepper.dealabs.com/threads/raw/KphlU/3446457_1/re/150x150/qt/55/3446457_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/refrigerateur-combine-encastrable-hisense-rb3b250sawe-252l-no-frost-35-db-classe-e-3446457",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T20:04:29+00:00",
-   "populaire": false
-  },
-  {
-   "id": "1e0d9c359275",
-   "titre": "Dalle de Plancher AJ Timber OSB 3 - 2440 x 675 mm, Epaisseur 18 mm (8,50€/m2)",
-   "prix": 14.0,
-   "marchand": "Bricomarché",
-   "image": "https://static-pepper.dealabs.com/threads/raw/eUxPR/3446463_1/re/150x150/qt/55/3446463_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/dalle-de-plancher-osb-3-2440-x-675-mm-epaisseur-18-mm-850eurm2-3446463",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T20:03:22+00:00",
-   "populaire": false
-  },
-  {
-   "id": "0de6e5b943df",
-   "titre": "Polaire Moutonnée Moval - Tailles 42 à 48",
-   "prix": 64.5,
-   "marchand": "Armor-Lux",
-   "image": "https://static-pepper.dealabs.com/threads/raw/NHIDQ/3446461_1/re/150x150/qt/55/3446461_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/polaire-moutonnee-moval-3446461",
-   "source": "Dealabs",
-   "categorie": "Mode & beauté",
-   "date": "2026-11-04T20:02:51+00:00",
-   "populaire": false
-  },
-  {
-   "id": "6dc212169f6d",
-   "titre": "TV 65\" TCL Q8C - QD Mini LED, 4K HDR Premium 4500, ZeroBorder + Barre de son TCL S55HE Dolby Atmos 2.1, connectivité sans fil",
-   "prix": 949.99,
-   "marchand": "JoyBuy",
-   "image": "https://static-pepper.dealabs.com/threads/raw/w8ZOa/3446456_1/re/150x150/qt/55/3446456_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/tcl-q8c-barre-de-son-3446456",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:59:30+00:00",
-   "populaire": false
-  },
-  {
-   "id": "4d4a8265af42",
-   "titre": "Oreiller Mousse à Mémoire de Forme Wellpur Stryn 42x65x15 cm",
-   "prix": 16.5,
-   "marchand": "Jysk",
-   "image": "https://static-pepper.dealabs.com/threads/raw/mpXux/3446454_1/re/150x150/qt/55/3446454_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/stryn-plus-oreiller-mousse-a-memoire-de-forme-42x65x15-wellpur-stryn-3446454",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:56:33+00:00",
-   "populaire": false
-  },
-  {
-   "id": "ea2739fda3a6",
-   "titre": "Sèche-linge pompe à chaleur Haier X9 HD90-AQ387U1-FR - 9 kg, classe A, 60 dB (via ODR de 100 €)",
-   "prix": 599.0,
-   "marchand": "Haier",
-   "image": "https://static-pepper.dealabs.com/threads/raw/eEQDx/3446453_1/re/150x150/qt/55/3446453_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-haier-x9-hd90-aq387u1-fr-9-kg-classe-a-60-db-via-odr-de-100-eur-3446453",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:56:00+00:00",
-   "populaire": false
-  },
-  {
-   "id": "174240ec320b",
-   "titre": "Kit mémoire Lexar Thor 2.0 - 32 Go (2x 16 Go), DDR5 6000, CL38 1.3 V (Vendeur Tiers) (322,67 avec code HELLO10)",
-   "prix": 332.67,
-   "marchand": "Cdiscount",
-   "image": "https://static-pepper.dealabs.com/threads/raw/yaJOq/3446450_1/re/150x150/qt/55/3446450_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/lexar-thor-20-ddr5-6000-cl38-13-v-32-go-2x-16-go-3446450",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:53:50+00:00",
-   "populaire": false
-  },
-  {
-   "id": "ad2893abec5b",
-   "titre": "Mini cuisine 4-en-1 Awoom - plaque induction, micro onde, frigo et congélateur",
-   "prix": 499.0,
-   "marchand": "JoyBuy",
-   "image": "https://static-pepper.dealabs.com/threads/raw/cL1Kz/3446448_1/re/150x150/qt/55/3446448_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/mini-cuisine-4-en-1-awoom-plaque-induction-micro-onde-frigo-et-congelateur-3446448",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:53:32+00:00",
-   "populaire": false
-  },
-  {
-   "id": "e2a05119e07c",
-   "titre": "PC Tout-en-un 23.8\" Lenovo A100 - FHD IPS, Intel N100, 16 Go RAM, 512 Go SSD, Win 11",
-   "prix": 549.99,
-   "marchand": "Darty",
-   "image": "https://static-pepper.dealabs.com/threads/raw/QmbEv/3446446_1/re/150x150/qt/55/3446446_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/pc-tout-en-un-238-lenovo-a100-fhd-ips-intel-n100-16-go-ram-512-go-ssd-win-11-3446446",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:52:52+00:00",
-   "populaire": false
-  },
-  {
-   "id": "3c79c63befa7",
-   "titre": "Étagère à outils HC Tools",
-   "prix": 19.95,
-   "marchand": "iBOOD",
-   "image": "https://static-pepper.dealabs.com/threads/raw/z7qs7/3446442_1/re/150x150/qt/55/3446442_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/etagere-a-outils-hc-tools-3446442",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:41:36+00:00",
-   "populaire": false
-  },
-  {
-   "id": "ec516378160a",
-   "titre": "[Twitch Drop] 6 objets et armures gratuits pour Enshrouded en regardant 4h de Stream",
-   "prix": null,
-   "marchand": "Steam",
-   "image": "https://static-pepper.dealabs.com/threads/raw/RgwUO/3446441_1/re/150x150/qt/55/3446441_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/twitch-drop-enshrouded-6-objets-et-armures-gratuits-en-regardant-4h-de-stream-participant-3446441",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:38:20+00:00",
-   "populaire": false
-  },
-  {
-   "id": "c581f4c27d76",
-   "titre": "Final Fantasy XII The Zodiac Age (Dématérialisé)",
-   "prix": 14.99,
-   "marchand": "Nintendo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/KJURM/3446438_1/re/150x150/qt/55/3446438_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/final-fantasy-xii-the-zodiac-age-dematerialise-3446438",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:36:27+00:00",
-   "populaire": false
-  },
-  {
-   "id": "642a12de9917",
-   "titre": "Gants de travail anti-vibration Stanley - Taille L",
-   "prix": 12.99,
-   "marchand": "Screwfix",
-   "image": "https://static-pepper.dealabs.com/threads/raw/PsHqz/3446437_1/re/150x150/qt/55/3446437_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/gants-de-travail-anti-vibration-stanley-noirs-taille-l-3446437",
-   "source": "Dealabs",
-   "categorie": "Mode & beauté",
-   "date": "2026-11-04T19:35:33+00:00",
-   "populaire": false
-  },
-  {
-   "id": "5ee854541c5e",
-   "titre": "NBA 2K27 Édition Deluxe sur PC (Dématérialisé - Steam)",
-   "prix": 45.0,
-   "marchand": "Steam",
-   "image": "https://static-pepper.dealabs.com/threads/raw/G7jWH/3446436_1/re/150x150/qt/55/3446436_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/nba-2k27-edition-deluxe-sur-pc-dematerialise-steam-3446436",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:35:20+00:00",
-   "populaire": false
-  },
-  {
-   "id": "0480fd2bf87b",
-   "titre": "Uncharted Legacy of Thieves Collection sur PC (dématérialisé)",
-   "prix": 16.49,
-   "marchand": "Epic Games Store",
-   "image": "https://static-pepper.dealabs.com/threads/raw/qBWZ9/3446431_1/re/150x150/qt/55/3446431_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/uncharted-legacy-of-thieves-collection-sur-pc-dematerialise-epic-3446431",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:26:47+00:00",
-   "populaire": false
-  },
-  {
-   "id": "4ac65ecbc1aa",
-   "titre": "Might & Magic Clash of Heroes : Definitive Edition sur Nintendo Switch (Dématérialisé)",
-   "prix": 8.99,
-   "marchand": "Nintendo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/ibHnA/3446429_1/re/150x150/qt/55/3446429_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/might-magic-clash-of-heroes-definitive-edition-sur-nintendo-switch-dematerialise-3446429",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:25:14+00:00",
-   "populaire": false
-  },
-  {
-   "id": "c487b678146c",
-   "titre": "Tails of Iron sur PS5/PS4 (Dématérialisé)",
-   "prix": 2.99,
-   "marchand": "PlayStation Store",
-   "image": "https://static-pepper.dealabs.com/threads/raw/VEvIU/3446428_1/re/150x150/qt/55/3446428_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/tails-of-iron-ps5ps4-dematerialise-3446428",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:25:09+00:00",
-   "populaire": false
-  },
-  {
-   "id": "e8df4201feb1",
-   "titre": "Ghost of Tsushima Director's Cut sur PC (dématérialisé )",
-   "prix": 29.99,
-   "marchand": "Epic Games Store",
-   "image": "https://static-pepper.dealabs.com/threads/raw/1izGx/3446424_1/re/150x150/qt/55/3446424_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/ghost-of-tsushima-directors-cut-sur-pc-dematerialise-epic-3446424",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:21:56+00:00",
-   "populaire": false
-  },
-  {
-   "id": "d57d73c7e389",
-   "titre": "[Lidl+] Set de douilles Parkside - 216 pièces",
-   "prix": 49.0,
-   "marchand": "Lidl",
-   "image": "https://static-pepper.dealabs.com/threads/raw/luPbZ/3446423_1/re/150x150/qt/55/3446423_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/lidl-plus-set-de-douilles-parkside-216-pieces-3446423",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:21:15+00:00",
-   "populaire": false
-  },
-  {
-   "id": "911608c09d93",
-   "titre": "Marvel's Wolverine sur PS5 - Mers les bains (80)",
-   "prix": 39.99,
-   "marchand": "Auchan",
-   "image": "https://static-pepper.dealabs.com/threads/raw/2aYq4/3446302_1/re/150x150/qt/55/3446302_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/jeu-ps5-marvel-wolverine-3446302",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:19:10+00:00",
-   "populaire": false
-  },
-  {
-   "id": "89e64119e632",
-   "titre": "Vol direct Aller/Retour Paris-Orly (ORY) Le Caire (CAI) Égypte Du 3 au 10 Décembre",
-   "prix": 184.0,
-   "marchand": "Vueling",
-   "image": "https://static-pepper.dealabs.com/threads/raw/cbPFL/3446421_1/re/150x150/qt/55/3446421_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/vol-direct-allerretour-paris-orly-ory-le-caire-cai-egypte-des-184eur-du-3-au-10-decembre-3446421",
-   "source": "Dealabs",
-   "categorie": "Voyages & loisirs",
-   "date": "2026-11-04T19:18:54+00:00",
-   "populaire": false
-  },
-  {
-   "id": "9cc9f5b572bf",
-   "titre": "The Last of Us Part I sur PC (dématérialisé)",
-   "prix": 29.99,
-   "marchand": "Epic Games Store",
-   "image": "https://static-pepper.dealabs.com/threads/raw/6s9xN/3446419_1/re/150x150/qt/55/3446419_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/the-last-of-us-part-i-sur-pc-dematerialise-epic-3446419",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:17:13+00:00",
-   "populaire": false
-  },
-  {
-   "id": "5ecc1dab66ea",
-   "titre": "Wonder Boy: The Dragon's Trap sur Nintendo Switch (Dématérialisé)",
-   "prix": 3.99,
-   "marchand": "Nintendo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/3KFcf/3446418_1/re/150x150/qt/55/3446418_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/wonder-boy-the-dragons-trap-sur-nintendo-switch-dematerialise-3446418",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:16:09+00:00",
-   "populaire": false
-  },
-  {
-   "id": "5d11f01b962b",
-   "titre": "The Last of Us Part II Remastered sur PC (dématérialisé)",
-   "prix": 33.49,
-   "marchand": "Epic Games Store",
-   "image": "https://static-pepper.dealabs.com/threads/raw/u9Ewa/3446417_1/re/150x150/qt/55/3446417_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/the-last-of-us-part-ii-remastered-sur-pc-dematerialise-epic-3446417",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:12:43+00:00",
-   "populaire": false
-  },
-  {
-   "id": "1a8097be6877",
-   "titre": "Ys Origin sur Nintendo Switch (Dématérialisé)",
-   "prix": 1.99,
-   "marchand": "Nintendo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/iNBWW/3446416_1/re/150x150/qt/55/3446416_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/ys-origin-sur-nintendo-switch-dematerialise-3446416",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:12:24+00:00",
-   "populaire": false
-  },
-  {
-   "id": "dac8fe68f124",
-   "titre": "Teenage Mutant Ninja Turtles: Shredder's Revenge sur Nintendo Switch à 9.99€ - Edition Ultimate à 18,14€ (Dématérialisé)",
-   "prix": 9.99,
-   "marchand": "Nintendo",
-   "image": "https://static-pepper.dealabs.com/threads/raw/1duRT/3446413_1/re/150x150/qt/55/3446413_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/teenage-mutant-ninja-turtles-shredders-revenge-sur-nintendo-switch-edition-ultimate-a-1814eur-dematerialise-3446413",
-   "source": "Dealabs",
-   "categorie": "High-tech",
-   "date": "2026-11-04T19:09:40+00:00",
-   "populaire": false
-  },
-  {
-   "id": "129f19a8cf1d",
-   "titre": "Chariot pliable Hbm avec poignées - 150 Kg",
-   "prix": 32.49,
-   "marchand": "HBM Machines",
-   "image": "https://static-pepper.dealabs.com/threads/raw/3GMTT/3446412_1/re/150x150/qt/55/3446412_1.jpg",
-   "lien": "https://www.dealabs.com/bons-plans/chariot-pliable-hbm-avec-poignees-150-kg-3446412",
-   "source": "Dealabs",
-   "categorie": "Maison & bricolage",
-   "date": "2026-11-04T19:09:39+00:00",
    "populaire": false
   }
  ]
